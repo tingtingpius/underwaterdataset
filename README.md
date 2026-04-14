@@ -1,6 +1,5 @@
 # UnderwaterDataset
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-![Stars](https://img.shields.io/github/stars/ddz16/UnderwaterDataset)
+
 
 This repository contains various underwatr datasets for enhancement, detection, segmentation...
 
