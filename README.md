@@ -13,11 +13,6 @@ Each dataset contains the following types of data:
 ![Synthetic](https://img.shields.io/badge/-Synthetic-purple)
 ![Instance](https://img.shields.io/badge/-Instance-yellow)
 
-## News.
-
-🚩 **There is a [Chinese review article](https://jeit.ac.cn/article/doi/10.11999/JEIT221402?pageType=en) about underwater datasets.**
-
-🚩 **I have found a [website](https://universe.roboflow.com/university-of-michigan-du9nk/object-detector_yihan-guo) where there are many small underwater datasets available for download.**
 
 ## Enhancement/Restoration.
 Year|Dataset|Type|Pub|Description
